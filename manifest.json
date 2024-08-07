@@ -3,6 +3,6 @@
     "view": "card.vue",
     "create": "card.vue",
     "edit": "card.vue",
-    "brief": "brief.vue"
+    "brief": "card.vue"
   }
   
